@@ -20,21 +20,26 @@ Topics of interest
 
 - Efficient Memory Management for Large Language Model Serving with PagedAttention (**vLLM**)
 
-##### Resource Management
+##### Scheduling and Resource Management
 - Paella: Low-latency Model Serving with Software-defined GPU Scheduling
-
+- Hydro: Surrogate-Based Hyperparameter Tuning Service in the Datacenter 
+- Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators
+- Beta: Statistical Multiplexing with Model Parallelism for Deep Learning Serving
 #### Fault Tolerance
 
 - GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints
 
-### Machine Learning Acceleration
+### Accelerate and optimize Machine Learning
 
 - Bagpipe: Accelerating Deep Recommendation Model Training
 - gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning
+- EinNet: Optimizing Tensor Programs with Derivation-Based Transformations
+- Welder: Scheduling Deep Learning Memory Access via Tile-graph
+- Grinder: Analysis and Optimization for Dynamic Control Flow in Deep Learning
 
-#### AI Compiler
-
+#### AI Compiler and Programming Languages
 - PIT: Optimization of Dynamic Sparse Deep Learning Models via Permutation Invariant Transformation
+- Optimizing Dynamic Neural Networks with Brainstorm
 
 #### Parallelism
 
@@ -42,6 +47,7 @@ Topics of interest
 
 ### Database and Storage
 - SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
+- VBase: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity
 
 ### GPU Arch
 
