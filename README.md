@@ -6,7 +6,6 @@ The papers are from SOSP, OSDI.
 
 Topics of interest
 
-
 ## System for Machine Learning
 
 ### Distributed Systems
@@ -31,6 +30,7 @@ Topics of interest
 ### Machine Learning Acceleration
 
 - Bagpipe: Accelerating Deep Recommendation Model Training
+- gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning
 
 #### AI Compiler
 
@@ -40,6 +40,8 @@ Topics of interest
 
 - Gradient Compression Supercharged High-Performance Data Parallel DNN Training
 
+### Database and Storage
+- SPFresh: Incremental In-Place Update for Billion-Scale Vector Search
 
 ### GPU Arch
 
@@ -55,3 +57,4 @@ Topics of interest
 
 - HEALER: Relation Learning Guided Kernel Fuzzing
 - Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks
+- LUMOS: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor
